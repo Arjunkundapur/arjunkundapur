@@ -49,7 +49,7 @@ LLMs • GPT Workflows • Hugging Face • FastAPI
 
 ---
 
-## 🧠 Projects
+## 🧠 Recent Impact
 
 ### ⚡ AI-Driven GTM Automation  
 Designed an end-to-end acquisition engine using orchestration tools, enrichment APIs, and LLM-based qualification.
@@ -60,7 +60,7 @@ Designed an end-to-end acquisition engine using orchestration tools, enrichment 
 
 ---
 
-### 🧠 GoEmotions — GPT-2 Emotion Classifier  
+### 🧠 Project - GoEmotions — GPT-2 Emotion Classifier  
 Fine-tuned GPT-2 for multi-label emotion detection and deployed a production-style inference service.
 
 ✔ Reproducible training pipeline  
